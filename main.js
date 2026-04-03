@@ -1,5 +1,5 @@
 /* =========================================================
-   main.js — Portfolio Diego Avelino
+   main.js — Portafolio Johanna Vargas
    ========================================================= */
 
 /* ── AÑO ACTUAL EN FOOTER ── */
