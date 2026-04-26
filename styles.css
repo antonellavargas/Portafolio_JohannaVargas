@@ -196,7 +196,7 @@ main {
 }
 
 section {
-  padding: 8rem 0;
+  padding: 6rem 0;
   scroll-margin-top: 4.5rem;
 }
 
@@ -411,6 +411,7 @@ section {
   margin-top: 3.5rem;
   padding-top: 3rem;
   border-top: 1px solid var(--border);
+  margin-bottom: 0;
 }
 
 .stat-item {
@@ -612,7 +613,7 @@ section {
 
 .skill-cols {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
 }
 
@@ -1125,4 +1126,18 @@ footer {
   main            { padding: 0 1.2rem; }
   .hero-h1        { font-size: 2.8rem; }
   .stats-row      { gap: 1.5rem; flex-wrap: wrap; }
+}
+
+/* ── INTRO TEXTO ── */
+.intro-text {
+  max-width: 750px;
+  margin: 0 auto 5rem auto;
+  text-align: center;
+}
+
+.intro-text p {
+  font-size: 1.15rem;
+  font-weight: 300;
+  line-height: 1.9;
+  color: var(--text);
 }
