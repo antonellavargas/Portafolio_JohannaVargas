@@ -873,7 +873,7 @@ section {
 }
 
 .exp-desc {
-  color: var(--text-muted);
+  color: #ffffff;
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.85;
