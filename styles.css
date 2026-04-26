@@ -775,18 +775,38 @@ section {
 .exp-card:hover::before { opacity: 1; }
 .exp-card:hover::after  { transform: scaleX(1); }
 
+/* CONTENEDOR DEL LOGO */
 .exp-logo {
   width: 100px;
   height: 100px;
   background: #fff;
   border-radius: 20px;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 6px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.1);
-  flex-shrink: 0;
+  overflow: hidden;
+}
+
+/* Ajuste entre hero → intro */
+#hero {
+  padding-bottom: 3rem;
+}
+
+/* Intro más pegado */
+.intro-text {
+  margin: 0 auto 2.5rem auto;
+}
+
+/* Skills más cerca */
+#skills {
+  padding-top: 4rem;
+}
+
+/* IMAGEN DEL LOGO */
+.exp-logo img {
+  width: 70%;
+  height: 70%;
+  object-fit: contain;
 }
 
 .sunarp-dots {
