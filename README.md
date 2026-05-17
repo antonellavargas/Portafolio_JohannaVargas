@@ -1,8 +1,10 @@
-# 🌸 Portafolio de Johanna Vargas
+# 🌸 Mi Portafolio
 
-¡Hola! 👋 Bienvenid@ a mi portafolio personal.
+¡Hola! 👋 
 
-Este proyecto ha sido creado para mostrar mis habilidades, proyectos y evolución como desarrolladora. Aquí encontrarás una recopilación de mi trabajo, intereses y lo que me apasiona en el mundo del desarrollo web.
+Bienvenid@ a mi portafolio personal.
+
+Este proyecto ha sido creado para mostrar mis habilidades, proyectos y evolución como desarrolladora. Aquí encontrarás una recopilación de mi trabajo, intereses y lo que me apasiona.
 
 ---
 
@@ -22,34 +24,8 @@ Me gusta aprender constantemente y transformar ideas en proyectos reales.
 
 ---
 
-## 🛠️ Tecnologías que utilizo
-
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- (Agrega aquí otras que uses: React, Python, etc.)
-
----
-
-## 🌐 Demo del portafolio
-
 👉 Puedes ver mi portafolio aquí:  
 https://antonellavargas.github.io/Portafolio_JohannaVargas/
-
----
-
-## 📬 Contacto
-
-Si quieres contactarme o colaborar conmigo:
-
-- Email: tuemail@example.com  
-- GitHub: https://github.com/tuusuario  
-- LinkedIn: (opcional)
-
----
-
-## 💖 Nota final
-
-Este portafolio seguirá creciendo junto conmigo, porque siempre hay algo nuevo por aprender ✨
 
 ---
 
